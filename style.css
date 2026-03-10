@@ -110,8 +110,8 @@ a:hover {
   }
   
   #profile-pic {
-    width: 150px;
-    height: 150px;
+    width: 30px;
+    height: 30px;
     object-fit: cover;
   }
   
@@ -140,3 +140,4 @@ a:hover {
     margin-bottom: 30px;
   }
 }
+
